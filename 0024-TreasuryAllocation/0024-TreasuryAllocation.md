@@ -1,4 +1,4 @@
-# 0023-TreasuryAllocation
+# 0024-TreasuryAllocation
 
 - Status: Proposed
 - Authors: Optim Labs
